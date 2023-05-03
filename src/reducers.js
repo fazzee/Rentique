@@ -1,4 +1,5 @@
 import {combineReducers} from 'redux';
+import {mockApi} from 'mockApi';
 
 // Define your reducers here
 const initialState = {
@@ -18,7 +19,7 @@ const rootReducer = (state = initialState, action) => {
       // Perform login logic here and set the user state
       const {username, password} = action.payload;
       if (username === 'admin' && password === 'password') {
-        const user = {username, role: 'admin'}; // Replace with your user object
+        const user =  mockApi.login(username, password);
         return {
           ...state,
           user,
