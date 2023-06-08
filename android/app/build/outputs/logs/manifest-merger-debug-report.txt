@@ -1,0 +1,596 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:1:1-51:12
+INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:1:1-51:12
+INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:1:1-51:12
+INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:1:1-51:12
+MERGED from [hermes-debug.aar] C:\Users\CYRUS\.gradle\caches\transforms-3\0fda6d2c7639645b27af57d4f58fa7ff\transformed\jetified-hermes-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.flipper:flipper:0.99.0] C:\Users\CYRUS\.gradle\caches\transforms-3\860ae0f2d14620621e16d024c8259e11\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] C:\Users\CYRUS\.gradle\caches\transforms-3\1d2d39a7ddec01ff5e62ad87a0addbde\transformed\jetified-flipper-network-plugin-0.99.0\AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] C:\Users\CYRUS\.gradle\caches\transforms-3\29006e8e45750032759241d75e95d651\transformed\jetified-flipper-fresco-plugin-0.99.0\AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-vector-icons] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-async-storage_async-storage] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_netinfo] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\@react-native-community\netinfo\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-menu_menu] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\@react-native-menu\menu\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-config] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-config\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-fast-image] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-fast-image\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-33:12
+MERGED from [:react-native-in-app-review] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-in-app-review\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-localization] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-localization\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-navigation] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-navigation\lib\android\app\build\intermediates\merged_manifest\reactNative63Debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-orientation-locker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-orientation-locker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-permissions] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-permissions\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-share] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-svg] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-svg\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-dev-menu] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-dev-menu\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.67.4] C:\Users\CYRUS\.gradle\caches\transforms-3\44aeae0ac1705ffd6bc7765d31a5d1ae\transformed\jetified-react-native-0.67.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.wix-playground:reflow-animator:1.0.6] C:\Users\CYRUS\.gradle\caches\transforms-3\4e14e4e76c421733e6e37e41555715ab\transformed\jetified-reflow-animator-1.0.6\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\ef99724ffd0302ada1af221721968301\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\85ac4a17f6e6d57f208b0b994915b44b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\08efc452d0f366ada2fbc7027312b1e5\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\CYRUS\.gradle\caches\transforms-3\b4d20c03a53b9b351e3eda7ecb9d3b6f\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-reanimated] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-reanimated\android\build\.transforms\cf938b9e4736a9a2b3ad0de18f33ad48\transformed\jetified-react-native-reanimated-67-hermes\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\db33455f7d7a57ec38e5dc9692eff64e\transformed\jetified-flipper-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\455e22a81942608d351cb2c6e52d9288\transformed\jetified-stetho-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\b345449a2deedf68acfe59649e8afa0c\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9c08d495a4769076e934fd1194045807\transformed\jetified-soloader-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\506c1d349b9a31cbd8d15293771dd58c\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\0a76785794b9f7b0a91e04cba0569cb2\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\cf363b2b70d8ff80cf716e0086376c44\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\bf46dfb68f07f0a4fe3af966c9d00e12\transformed\jetified-memory-type-native-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\483bccd850b6d4de2df62fd03427d230\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\2200db7ddc02c93a65dd3ca3b7105fcc\transformed\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\CYRUS\.gradle\caches\transforms-3\0ad0eafa60c21ee4f4168060e165bd42\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\3073d9b9e55e6f9e3c96e735a394de45\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\3756ba8c9ddcfff29ace66e9218fef3d\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\c85cc7ed84923b7f58865d1f461bbf3e\transformed\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\77fad1a7e61bee9d7291b51e21f9e98f\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\CYRUS\.gradle\caches\transforms-3\7435ed773e8d8200ca246175cab98627\transformed\jetified-ucrop-2.2.6-native\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\CYRUS\.gradle\caches\transforms-3\5f7bd44e2c5ffa23404f2485d3e53ad4\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.3.0] C:\Users\CYRUS\.gradle\caches\transforms-3\300d16075b76c631005e21d45f8fc570\transformed\jetified-ahbottomnavigation-3.3.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\CYRUS\.gradle\caches\transforms-3\909be90292d20db04f56d79f316098d5\transformed\material-1.2.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\CYRUS\.gradle\caches\transforms-3\820f6564aa5b9592f1dcb014a1a88e9e\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\4f4314e85b0eb234c50807f6105a46f0\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\7e39a26246546dee1a11a3fd13d82b66\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\bb79b083307cb6efa154874d99fadcf9\transformed\jetified-middleware-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\936744c2cf755792a6e93d5afc22d9ea\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\CYRUS\.gradle\caches\transforms-3\7a42f63b8f9c6b2fec1362b71f5b3110\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\CYRUS\.gradle\caches\transforms-3\341760efdc32e7c50f76a99a13bb1911\transformed\jetified-glide-4.12.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\CYRUS\.gradle\caches\transforms-3\35d436d9dde6ab361935ce0394aeaebf\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\d4e8f9cfdf16a86960cbf2ef05f3d14f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\41fb96a6edaf1e0761229cbd4e83d00e\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\CYRUS\.gradle\caches\transforms-3\78f4e730dcfbe830f32a159cec4fdeb7\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\93371210c917ba87f88c18b01ffbc192\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\CYRUS\.gradle\caches\transforms-3\945abfb75d480ccc916cf7a321bdb3ac\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\CYRUS\.gradle\caches\transforms-3\ffb94df0578dda31ef0bc23c7a487817\transformed\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\c656c081199757d682548d4cd97019a8\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\CYRUS\.gradle\caches\transforms-3\18cf73a1e4d243de93c6b00b8036d13c\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\62140b10a43ebc8864251a13f6a7dae9\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\cf9504293433b4a44641a422f0529881\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\CYRUS\.gradle\caches\transforms-3\28c358fa0c83a4b53d21b5b222daeb50\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\CYRUS\.gradle\caches\transforms-3\572c381a73d04618f7af4490f59b8e27\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\5e9d4658620338aae53bd913710429b6\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\CYRUS\.gradle\caches\transforms-3\2aaebec9f62e019aa7096b40d6194530\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\435a83c604ae73f14affcc675afae489\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\8ccd2c7e746f0a62d5579f5f02683e99\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9067f20abbb53feb8586af686982f1aa\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\69080e5c94763e03509db7d4070061a1\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\223cdfc8876ff6206f12e84d07008635\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\f2455ffbe3bd0de5b95af8fea921b8bc\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\d03aaf3aed6799ba4ec7f2fa80a3fb5d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\a4398e88412ea21326c5eb451479b970\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\53ead9c48d5bbdde20295c8222835a8b\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\e865a5cc53b9258402f8eaa7a058ea3e\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\CYRUS\.gradle\caches\transforms-3\a3cca039c7b65f5fa7d016f54a597bf6\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\1de9654073bd7ee27acffc927f3fa74d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\CYRUS\.gradle\caches\transforms-3\cffca1b95969b2db3b6bdbebbd15a3ef\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\7301940e6ba1e16ab51f9095e3c936fe\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\CYRUS\.gradle\caches\transforms-3\594cedb1a8f8e9100ab0b0e7f0b06a6e\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\CYRUS\.gradle\caches\transforms-3\16b79ca6a59bb2ab9cd810b0ab85ca0a\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\cb05e944f6e512f0b3abe095345e0f66\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\CYRUS\.gradle\caches\transforms-3\945ae2d1b81df909af9cae6b9f8cb4a0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\0e1400da12d79976b4691463f5e2275d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\1e4db253f7a446bd46da0ba01ebd27b1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\CYRUS\.gradle\caches\transforms-3\16ddee23d1e621aa90ba92ec52428cd8\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\773ad3b00cbe03257cbafe8498bc6cf8\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\197aa9d8f4e0f13b2497c6e536767462\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\f6aaca5b6ed30bd3fd8e6030e2b72102\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\a70d0c8c8da83baac6ef7cbd9bd0cb43\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:2:1-19:12
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\CYRUS\.gradle\caches\transforms-3\2c310b72cd8e8eebf0e0494e309292d5\transformed\jetified-fab-1.6.4\AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\6f499039604251e401ad1f4d55cbe650\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\4edfd4790bba4f4eda234a9e71fe6d74\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:1:1-51:12
+INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:1:1-51:12
+INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:1:1-51:12
+	package
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:2:3-22
+		INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:1:1-51:12
+		INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:1:1-51:12
+		INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:1:11-69
+queries
+ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:3:5-6:15
+MERGED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-13:15
+MERGED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-13:15
+package#com.myapp.store
+ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:4:9-51
+	android:name
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:4:18-48
+package#com.myapp.services
+ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:5:9-54
+	android:name
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:5:18-51
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [com.facebook.flipper:flipper:0.99.0] C:\Users\CYRUS\.gradle\caches\transforms-3\860ae0f2d14620621e16d024c8259e11\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.99.0] C:\Users\CYRUS\.gradle\caches\transforms-3\860ae0f2d14620621e16d024c8259e11\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:9:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:11:5-64
+	android:name
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:11:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:12:5-85
+	android:required
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:12:58-82
+	android:name
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:12:19-57
+uses-feature#android.hardware.camera.front
+ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:13:5-91
+	android:required
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:13:64-88
+	android:name
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:13:19-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:15:5-81
+MERGED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-81
+MERGED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:16:5-88
+	android:name
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:16:22-85
+application
+ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:17:5-49:19
+MERGED from [:react-native-community_datetimepicker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-20
+MERGED from [:react-native-community_datetimepicker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-20
+MERGED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-31:19
+MERGED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-31:19
+MERGED from [:react-native-navigation] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-navigation\lib\android\app\build\intermediates\merged_manifest\reactNative63Debug\AndroidManifest.xml:9:5-13:19
+MERGED from [:react-native-navigation] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-navigation\lib\android\app\build\intermediates\merged_manifest\reactNative63Debug\AndroidManifest.xml:9:5-13:19
+MERGED from [:react-native-share] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-share] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [com.facebook.react:react-native:0.67.4] C:\Users\CYRUS\.gradle\caches\transforms-3\44aeae0ac1705ffd6bc7765d31a5d1ae\transformed\jetified-react-native-0.67.4\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.67.4] C:\Users\CYRUS\.gradle\caches\transforms-3\44aeae0ac1705ffd6bc7765d31a5d1ae\transformed\jetified-react-native-0.67.4\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\CYRUS\.gradle\caches\transforms-3\0ad0eafa60c21ee4f4168060e165bd42\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\CYRUS\.gradle\caches\transforms-3\0ad0eafa60c21ee4f4168060e165bd42\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:11:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\CYRUS\.gradle\caches\transforms-3\5f7bd44e2c5ffa23404f2485d3e53ad4\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\CYRUS\.gradle\caches\transforms-3\5f7bd44e2c5ffa23404f2485d3e53ad4\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.3.0] C:\Users\CYRUS\.gradle\caches\transforms-3\300d16075b76c631005e21d45f8fc570\transformed\jetified-ahbottomnavigation-3.3.0\AndroidManifest.xml:11:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.3.0] C:\Users\CYRUS\.gradle\caches\transforms-3\300d16075b76c631005e21d45f8fc570\transformed\jetified-ahbottomnavigation-3.3.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\CYRUS\.gradle\caches\transforms-3\909be90292d20db04f56d79f316098d5\transformed\material-1.2.0-alpha03\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\CYRUS\.gradle\caches\transforms-3\909be90292d20db04f56d79f316098d5\transformed\material-1.2.0-alpha03\AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\CYRUS\.gradle\caches\transforms-3\7a42f63b8f9c6b2fec1362b71f5b3110\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\CYRUS\.gradle\caches\transforms-3\7a42f63b8f9c6b2fec1362b71f5b3110\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\CYRUS\.gradle\caches\transforms-3\341760efdc32e7c50f76a99a13bb1911\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\CYRUS\.gradle\caches\transforms-3\341760efdc32e7c50f76a99a13bb1911\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\CYRUS\.gradle\caches\transforms-3\945abfb75d480ccc916cf7a321bdb3ac\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\CYRUS\.gradle\caches\transforms-3\945abfb75d480ccc916cf7a321bdb3ac\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\c656c081199757d682548d4cd97019a8\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\c656c081199757d682548d4cd97019a8\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\CYRUS\.gradle\caches\transforms-3\18cf73a1e4d243de93c6b00b8036d13c\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\CYRUS\.gradle\caches\transforms-3\18cf73a1e4d243de93c6b00b8036d13c\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\62140b10a43ebc8864251a13f6a7dae9\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\62140b10a43ebc8864251a13f6a7dae9\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\CYRUS\.gradle\caches\transforms-3\a3cca039c7b65f5fa7d016f54a597bf6\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\CYRUS\.gradle\caches\transforms-3\a3cca039c7b65f5fa7d016f54a597bf6\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\CYRUS\.gradle\caches\transforms-3\945ae2d1b81df909af9cae6b9f8cb4a0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\CYRUS\.gradle\caches\transforms-3\945ae2d1b81df909af9cae6b9f8cb4a0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:10:3-17:17
+MERGED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:10:3-17:17
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\CYRUS\.gradle\caches\transforms-3\2c310b72cd8e8eebf0e0494e309292d5\transformed\jetified-fab-1.6.4\AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\CYRUS\.gradle\caches\transforms-3\2c310b72cd8e8eebf0e0494e309292d5\transformed\jetified-fab-1.6.4\AndroidManifest.xml:12:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\CYRUS\.gradle\caches\transforms-3\a3cca039c7b65f5fa7d016f54a597bf6\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:23:7-33
+	android:label
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:19:7-39
+	android:largeHeap
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:24:7-31
+	android:icon
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:20:7-41
+	android:allowBackup
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:21:7-34
+	android:theme
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:26:7-38
+	android:networkSecurityConfig
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:25:7-67
+	android:usesCleartextTraffic
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:22:7-42
+	android:name
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:18:7-38
+activity#com.myapp.SplashActivity
+ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:configChanges
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:30:13-43
+	android:theme
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:29:13-47
+	android:name
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:28:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:33:27-74
+activity#com.myapp.MainActivity
+ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:36:7-47:18
+	android:label
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:38:9-41
+	android:launchMode
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:40:9-40
+	android:windowSoftInputMode
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:42:9-51
+	android:exported
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:41:9-32
+	android:configChanges
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:39:9-86
+	android:name
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:37:9-37
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:48:7-84
+MERGED from [:react-native-navigation] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-navigation\lib\android\app\build\intermediates\merged_manifest\reactNative63Debug\AndroidManifest.xml:10:9-12:40
+MERGED from [:react-native-navigation] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-navigation\lib\android\app\build\intermediates\merged_manifest\reactNative63Debug\AndroidManifest.xml:10:9-12:40
+	android:exported
+		ADDED from [:react-native-navigation] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-navigation\lib\android\app\build\intermediates\merged_manifest\reactNative63Debug\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml:48:17-81
+uses-sdk
+INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml
+MERGED from [hermes-debug.aar] C:\Users\CYRUS\.gradle\caches\transforms-3\0fda6d2c7639645b27af57d4f58fa7ff\transformed\jetified-hermes-debug\AndroidManifest.xml:5:5-44
+MERGED from [hermes-debug.aar] C:\Users\CYRUS\.gradle\caches\transforms-3\0fda6d2c7639645b27af57d4f58fa7ff\transformed\jetified-hermes-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.flipper:flipper:0.99.0] C:\Users\CYRUS\.gradle\caches\transforms-3\860ae0f2d14620621e16d024c8259e11\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.99.0] C:\Users\CYRUS\.gradle\caches\transforms-3\860ae0f2d14620621e16d024c8259e11\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] C:\Users\CYRUS\.gradle\caches\transforms-3\1d2d39a7ddec01ff5e62ad87a0addbde\transformed\jetified-flipper-network-plugin-0.99.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] C:\Users\CYRUS\.gradle\caches\transforms-3\1d2d39a7ddec01ff5e62ad87a0addbde\transformed\jetified-flipper-network-plugin-0.99.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] C:\Users\CYRUS\.gradle\caches\transforms-3\29006e8e45750032759241d75e95d651\transformed\jetified-flipper-fresco-plugin-0.99.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] C:\Users\CYRUS\.gradle\caches\transforms-3\29006e8e45750032759241d75e95d651\transformed\jetified-flipper-fresco-plugin-0.99.0\AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-vector-icons] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\@react-native-community\netinfo\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\@react-native-community\netinfo\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-menu_menu] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\@react-native-menu\menu\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-menu_menu] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\@react-native-menu\menu\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-config] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-config\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-config] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-config\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fast-image] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-fast-image\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fast-image] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-fast-image\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-in-app-review] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-in-app-review\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-in-app-review] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-in-app-review\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-localization] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-localization\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-localization] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-localization\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-navigation] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-navigation\lib\android\app\build\intermediates\merged_manifest\reactNative63Debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-navigation] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-navigation\lib\android\app\build\intermediates\merged_manifest\reactNative63Debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-orientation-locker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-orientation-locker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-orientation-locker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-orientation-locker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-permissions\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-permissions\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-share] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-share] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-svg\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-svg\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-dev-menu] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-dev-menu\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-dev-menu] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-dev-menu\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.67.4] C:\Users\CYRUS\.gradle\caches\transforms-3\44aeae0ac1705ffd6bc7765d31a5d1ae\transformed\jetified-react-native-0.67.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.67.4] C:\Users\CYRUS\.gradle\caches\transforms-3\44aeae0ac1705ffd6bc7765d31a5d1ae\transformed\jetified-react-native-0.67.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.wix-playground:reflow-animator:1.0.6] C:\Users\CYRUS\.gradle\caches\transforms-3\4e14e4e76c421733e6e37e41555715ab\transformed\jetified-reflow-animator-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:reflow-animator:1.0.6] C:\Users\CYRUS\.gradle\caches\transforms-3\4e14e4e76c421733e6e37e41555715ab\transformed\jetified-reflow-animator-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\ef99724ffd0302ada1af221721968301\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\ef99724ffd0302ada1af221721968301\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\85ac4a17f6e6d57f208b0b994915b44b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\85ac4a17f6e6d57f208b0b994915b44b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\08efc452d0f366ada2fbc7027312b1e5\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\08efc452d0f366ada2fbc7027312b1e5\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\CYRUS\.gradle\caches\transforms-3\b4d20c03a53b9b351e3eda7ecb9d3b6f\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\CYRUS\.gradle\caches\transforms-3\b4d20c03a53b9b351e3eda7ecb9d3b6f\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [:react-native-reanimated] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-reanimated\android\build\.transforms\cf938b9e4736a9a2b3ad0de18f33ad48\transformed\jetified-react-native-reanimated-67-hermes\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-reanimated\android\build\.transforms\cf938b9e4736a9a2b3ad0de18f33ad48\transformed\jetified-react-native-reanimated-67-hermes\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\db33455f7d7a57ec38e5dc9692eff64e\transformed\jetified-flipper-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\db33455f7d7a57ec38e5dc9692eff64e\transformed\jetified-flipper-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\455e22a81942608d351cb2c6e52d9288\transformed\jetified-stetho-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\455e22a81942608d351cb2c6e52d9288\transformed\jetified-stetho-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\b345449a2deedf68acfe59649e8afa0c\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\b345449a2deedf68acfe59649e8afa0c\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9c08d495a4769076e934fd1194045807\transformed\jetified-soloader-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9c08d495a4769076e934fd1194045807\transformed\jetified-soloader-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\506c1d349b9a31cbd8d15293771dd58c\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\506c1d349b9a31cbd8d15293771dd58c\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\0a76785794b9f7b0a91e04cba0569cb2\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\0a76785794b9f7b0a91e04cba0569cb2\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\cf363b2b70d8ff80cf716e0086376c44\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\cf363b2b70d8ff80cf716e0086376c44\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\bf46dfb68f07f0a4fe3af966c9d00e12\transformed\jetified-memory-type-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\bf46dfb68f07f0a4fe3af966c9d00e12\transformed\jetified-memory-type-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\483bccd850b6d4de2df62fd03427d230\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\483bccd850b6d4de2df62fd03427d230\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\2200db7ddc02c93a65dd3ca3b7105fcc\transformed\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\2200db7ddc02c93a65dd3ca3b7105fcc\transformed\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\CYRUS\.gradle\caches\transforms-3\0ad0eafa60c21ee4f4168060e165bd42\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\CYRUS\.gradle\caches\transforms-3\0ad0eafa60c21ee4f4168060e165bd42\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\3073d9b9e55e6f9e3c96e735a394de45\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\3073d9b9e55e6f9e3c96e735a394de45\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\3756ba8c9ddcfff29ace66e9218fef3d\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\3756ba8c9ddcfff29ace66e9218fef3d\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\c85cc7ed84923b7f58865d1f461bbf3e\transformed\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\c85cc7ed84923b7f58865d1f461bbf3e\transformed\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\77fad1a7e61bee9d7291b51e21f9e98f\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\77fad1a7e61bee9d7291b51e21f9e98f\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\CYRUS\.gradle\caches\transforms-3\7435ed773e8d8200ca246175cab98627\transformed\jetified-ucrop-2.2.6-native\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\CYRUS\.gradle\caches\transforms-3\7435ed773e8d8200ca246175cab98627\transformed\jetified-ucrop-2.2.6-native\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\CYRUS\.gradle\caches\transforms-3\5f7bd44e2c5ffa23404f2485d3e53ad4\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\CYRUS\.gradle\caches\transforms-3\5f7bd44e2c5ffa23404f2485d3e53ad4\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.3.0] C:\Users\CYRUS\.gradle\caches\transforms-3\300d16075b76c631005e21d45f8fc570\transformed\jetified-ahbottomnavigation-3.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.3.0] C:\Users\CYRUS\.gradle\caches\transforms-3\300d16075b76c631005e21d45f8fc570\transformed\jetified-ahbottomnavigation-3.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\CYRUS\.gradle\caches\transforms-3\909be90292d20db04f56d79f316098d5\transformed\material-1.2.0-alpha03\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\CYRUS\.gradle\caches\transforms-3\909be90292d20db04f56d79f316098d5\transformed\material-1.2.0-alpha03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\CYRUS\.gradle\caches\transforms-3\820f6564aa5b9592f1dcb014a1a88e9e\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\CYRUS\.gradle\caches\transforms-3\820f6564aa5b9592f1dcb014a1a88e9e\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\4f4314e85b0eb234c50807f6105a46f0\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\4f4314e85b0eb234c50807f6105a46f0\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\7e39a26246546dee1a11a3fd13d82b66\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\7e39a26246546dee1a11a3fd13d82b66\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\bb79b083307cb6efa154874d99fadcf9\transformed\jetified-middleware-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\bb79b083307cb6efa154874d99fadcf9\transformed\jetified-middleware-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\936744c2cf755792a6e93d5afc22d9ea\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\936744c2cf755792a6e93d5afc22d9ea\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\CYRUS\.gradle\caches\transforms-3\7a42f63b8f9c6b2fec1362b71f5b3110\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\CYRUS\.gradle\caches\transforms-3\7a42f63b8f9c6b2fec1362b71f5b3110\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\CYRUS\.gradle\caches\transforms-3\341760efdc32e7c50f76a99a13bb1911\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\CYRUS\.gradle\caches\transforms-3\341760efdc32e7c50f76a99a13bb1911\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\CYRUS\.gradle\caches\transforms-3\35d436d9dde6ab361935ce0394aeaebf\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\CYRUS\.gradle\caches\transforms-3\35d436d9dde6ab361935ce0394aeaebf\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\d4e8f9cfdf16a86960cbf2ef05f3d14f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\d4e8f9cfdf16a86960cbf2ef05f3d14f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\41fb96a6edaf1e0761229cbd4e83d00e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\41fb96a6edaf1e0761229cbd4e83d00e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\CYRUS\.gradle\caches\transforms-3\78f4e730dcfbe830f32a159cec4fdeb7\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\CYRUS\.gradle\caches\transforms-3\78f4e730dcfbe830f32a159cec4fdeb7\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\93371210c917ba87f88c18b01ffbc192\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\93371210c917ba87f88c18b01ffbc192\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\CYRUS\.gradle\caches\transforms-3\945abfb75d480ccc916cf7a321bdb3ac\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\CYRUS\.gradle\caches\transforms-3\945abfb75d480ccc916cf7a321bdb3ac\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\CYRUS\.gradle\caches\transforms-3\ffb94df0578dda31ef0bc23c7a487817\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\CYRUS\.gradle\caches\transforms-3\ffb94df0578dda31ef0bc23c7a487817\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\c656c081199757d682548d4cd97019a8\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\c656c081199757d682548d4cd97019a8\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\CYRUS\.gradle\caches\transforms-3\18cf73a1e4d243de93c6b00b8036d13c\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\CYRUS\.gradle\caches\transforms-3\18cf73a1e4d243de93c6b00b8036d13c\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\62140b10a43ebc8864251a13f6a7dae9\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\62140b10a43ebc8864251a13f6a7dae9\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\cf9504293433b4a44641a422f0529881\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\cf9504293433b4a44641a422f0529881\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\CYRUS\.gradle\caches\transforms-3\28c358fa0c83a4b53d21b5b222daeb50\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\CYRUS\.gradle\caches\transforms-3\28c358fa0c83a4b53d21b5b222daeb50\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\CYRUS\.gradle\caches\transforms-3\572c381a73d04618f7af4490f59b8e27\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\CYRUS\.gradle\caches\transforms-3\572c381a73d04618f7af4490f59b8e27\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\5e9d4658620338aae53bd913710429b6\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\5e9d4658620338aae53bd913710429b6\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\CYRUS\.gradle\caches\transforms-3\2aaebec9f62e019aa7096b40d6194530\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\CYRUS\.gradle\caches\transforms-3\2aaebec9f62e019aa7096b40d6194530\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\435a83c604ae73f14affcc675afae489\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\435a83c604ae73f14affcc675afae489\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\8ccd2c7e746f0a62d5579f5f02683e99\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\8ccd2c7e746f0a62d5579f5f02683e99\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9067f20abbb53feb8586af686982f1aa\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9067f20abbb53feb8586af686982f1aa\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\69080e5c94763e03509db7d4070061a1\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\69080e5c94763e03509db7d4070061a1\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\223cdfc8876ff6206f12e84d07008635\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\223cdfc8876ff6206f12e84d07008635\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\f2455ffbe3bd0de5b95af8fea921b8bc\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\f2455ffbe3bd0de5b95af8fea921b8bc\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\d03aaf3aed6799ba4ec7f2fa80a3fb5d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\d03aaf3aed6799ba4ec7f2fa80a3fb5d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\a4398e88412ea21326c5eb451479b970\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\a4398e88412ea21326c5eb451479b970\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\53ead9c48d5bbdde20295c8222835a8b\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\53ead9c48d5bbdde20295c8222835a8b\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\e865a5cc53b9258402f8eaa7a058ea3e\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\e865a5cc53b9258402f8eaa7a058ea3e\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\CYRUS\.gradle\caches\transforms-3\a3cca039c7b65f5fa7d016f54a597bf6\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\CYRUS\.gradle\caches\transforms-3\a3cca039c7b65f5fa7d016f54a597bf6\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\1de9654073bd7ee27acffc927f3fa74d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\1de9654073bd7ee27acffc927f3fa74d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\CYRUS\.gradle\caches\transforms-3\cffca1b95969b2db3b6bdbebbd15a3ef\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\CYRUS\.gradle\caches\transforms-3\cffca1b95969b2db3b6bdbebbd15a3ef\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\7301940e6ba1e16ab51f9095e3c936fe\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\7301940e6ba1e16ab51f9095e3c936fe\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\CYRUS\.gradle\caches\transforms-3\594cedb1a8f8e9100ab0b0e7f0b06a6e\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\CYRUS\.gradle\caches\transforms-3\594cedb1a8f8e9100ab0b0e7f0b06a6e\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\CYRUS\.gradle\caches\transforms-3\16b79ca6a59bb2ab9cd810b0ab85ca0a\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\CYRUS\.gradle\caches\transforms-3\16b79ca6a59bb2ab9cd810b0ab85ca0a\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\cb05e944f6e512f0b3abe095345e0f66\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\cb05e944f6e512f0b3abe095345e0f66\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\CYRUS\.gradle\caches\transforms-3\945ae2d1b81df909af9cae6b9f8cb4a0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\CYRUS\.gradle\caches\transforms-3\945ae2d1b81df909af9cae6b9f8cb4a0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\0e1400da12d79976b4691463f5e2275d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\0e1400da12d79976b4691463f5e2275d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\1e4db253f7a446bd46da0ba01ebd27b1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\1e4db253f7a446bd46da0ba01ebd27b1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\CYRUS\.gradle\caches\transforms-3\16ddee23d1e621aa90ba92ec52428cd8\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\CYRUS\.gradle\caches\transforms-3\16ddee23d1e621aa90ba92ec52428cd8\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\773ad3b00cbe03257cbafe8498bc6cf8\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\773ad3b00cbe03257cbafe8498bc6cf8\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\197aa9d8f4e0f13b2497c6e536767462\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\197aa9d8f4e0f13b2497c6e536767462\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\f6aaca5b6ed30bd3fd8e6030e2b72102\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\f6aaca5b6ed30bd3fd8e6030e2b72102\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\a70d0c8c8da83baac6ef7cbd9bd0cb43\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\CYRUS\.gradle\caches\transforms-3\a70d0c8c8da83baac6ef7cbd9bd0cb43\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:4:3-70
+MERGED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:4:3-70
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\CYRUS\.gradle\caches\transforms-3\2c310b72cd8e8eebf0e0494e309292d5\transformed\jetified-fab-1.6.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\CYRUS\.gradle\caches\transforms-3\2c310b72cd8e8eebf0e0494e309292d5\transformed\jetified-fab-1.6.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\6f499039604251e401ad1f4d55cbe650\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\6f499039604251e401ad1f4d55cbe650\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\4edfd4790bba4f4eda234a9e71fe6d74\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\CYRUS\.gradle\caches\transforms-3\4edfd4790bba4f4eda234a9e71fe6d74\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\CYRUS\Documents\work\ux-labs\MyApp\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.99.0] C:\Users\CYRUS\.gradle\caches\transforms-3\860ae0f2d14620621e16d024c8259e11\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:16:5-76
+MERGED from [:react-native-community_netinfo] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\@react-native-community\netinfo\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-76
+MERGED from [:react-native-community_netinfo] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\@react-native-community\netinfo\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.99.0] C:\Users\CYRUS\.gradle\caches\transforms-3\860ae0f2d14620621e16d024c8259e11\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-community_netinfo] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\@react-native-community\netinfo\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:react-native-community_netinfo] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\@react-native-community\netinfo\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-76
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-12:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-73
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:21-70
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-26:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-30:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-60
+provider#cl.json.RNShareFileProvider
+ADDED from [:react-native-share] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-share] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-share] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [:react-native-share] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-share] C:\Users\CYRUS\Documents\work\ux-labs\MyApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-55
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\CYRUS\.gradle\caches\transforms-3\7a42f63b8f9c6b2fec1362b71f5b3110\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\CYRUS\.gradle\caches\transforms-3\7a42f63b8f9c6b2fec1362b71f5b3110\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\CYRUS\.gradle\caches\transforms-3\7a42f63b8f9c6b2fec1362b71f5b3110\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:12:13-84
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\c656c081199757d682548d4cd97019a8\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\c656c081199757d682548d4cd97019a8\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\c656c081199757d682548d4cd97019a8\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\c656c081199757d682548d4cd97019a8\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\62140b10a43ebc8864251a13f6a7dae9\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\62140b10a43ebc8864251a13f6a7dae9\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\CYRUS\.gradle\caches\transforms-3\62140b10a43ebc8864251a13f6a7dae9\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:8:3-74
+	android:name
+		ADDED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:8:20-72
+activity#com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity
+ADDED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:12:5-271
+	android:process
+		ADDED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:12:152-203
+	android:enabled
+		ADDED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:12:103-126
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:12:240-269
+	android:launchMode
+		ADDED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:12:204-239
+	android:exported
+		ADDED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:12:127-151
+	android:name
+		ADDED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:12:15-102
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:13:5-226
+	android:enabled
+		ADDED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:13:96-119
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:13:145-174
+	android:exported
+		ADDED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:13:120-144
+	android:theme
+		ADDED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:13:175-224
+	android:name
+		ADDED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:13:15-95
+service#com.google.android.play.core.assetpacks.AssetPackExtractionService
+ADDED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:16:5-145
+	android:enabled
+		ADDED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:16:96-119
+	android:exported
+		ADDED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:16:120-143
+	android:name
+		ADDED from [com.google.android.play:core:1.9.0] C:\Users\CYRUS\.gradle\caches\transforms-3\9ab9061a724833c8a4baeb7d3cc3efc5\transformed\jetified-core-1.9.0\AndroidManifest.xml:16:14-95

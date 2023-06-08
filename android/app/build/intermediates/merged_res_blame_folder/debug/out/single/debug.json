@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\CYRUS\\Documents\\work\\ux-labs\\MyApp\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\CYRUS\\Documents\\work\\ux-labs\\MyApp\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\CYRUS\\Documents\\work\\ux-labs\\MyApp\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable_gradient.xml.flat",
+        "source": "C:\\Users\\CYRUS\\Documents\\work\\ux-labs\\MyApp\\android\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\CYRUS\\Documents\\work\\ux-labs\\MyApp\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable_splash_background.xml.flat",
+        "source": "C:\\Users\\CYRUS\\Documents\\work\\ux-labs\\MyApp\\android\\app\\src\\main\\res\\drawable\\splash_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\CYRUS\\Documents\\work\\ux-labs\\MyApp\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_splash.png.flat",
+        "source": "C:\\Users\\CYRUS\\Documents\\work\\ux-labs\\MyApp\\android\\app\\src\\main\\res\\drawable-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\CYRUS\\Documents\\work\\ux-labs\\MyApp\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\CYRUS\\Documents\\work\\ux-labs\\MyApp\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\CYRUS\\Documents\\work\\ux-labs\\MyApp\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\CYRUS\\Documents\\work\\ux-labs\\MyApp\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\CYRUS\\Documents\\work\\ux-labs\\MyApp\\android\\app\\build\\intermediates\\merged_res\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\CYRUS\\Documents\\work\\ux-labs\\MyApp\\android\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\CYRUS\\Documents\\work\\ux-labs\\MyApp\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\CYRUS\\Documents\\work\\ux-labs\\MyApp\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\CYRUS\\Documents\\work\\ux-labs\\MyApp\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\CYRUS\\Documents\\work\\ux-labs\\MyApp\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]
